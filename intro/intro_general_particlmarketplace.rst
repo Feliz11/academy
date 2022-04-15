@@ -9,18 +9,20 @@ What You Gain
    :description lang=en: Do e-commerce, in privacy, without anyone in between —a fair and level playing field for everyone.
    :keywords lang=en: Boss, Blockchain, Privacy, E-Commerce, liberty, freedom
 
-:term:`Particl Marketplace` is a one-of-a-kind e-commerce platform that lets you buy and sell goods and services online with nobody in between. It’s just you and the other person you’re dealing with. There’s no company operating, controlling, or benefiting from the marketplace.
+:term:`Particl Marketplace` is a platform that lets you buy and sell goods and services online privately, with no middle man. There is no centralized entity operating, controlling, or benefiting from the marketplace.
 
-Unlike Amazon, eBay, or any other in-betweens, it is built with core security and privacy principles that keep you and your data safe at all times.
+Unlike Amazon and other traditional marketplace platforms, Particl Marketplace and the PART privacy coin are built with security and privacy principles at their core, which empowers buyers and sellers to keep their identity and data safe at all times.
+
+The Particl project aims to make available advanced and intuitive blockchain technology, to empower individuals to accomplish transactions online privately and with no middleman - to the benefit of their communities and to the detriment of the centralized entities that prey on them.
+
 
 **The world has changed, so you change as well to brace up your liberty and future.**
 
 * :ref:`Protect your finances <Protect Your Finances>` and keep extra money for what matters in your life. 
 * :ref:`Stand for liberty <Stand For Liberty>` and stop being the exploited product.
 * :ref:`Squash the rogues <Squash The Rogues>` and stop the scammers.
-* :ref:`Contribute to society <Contribute To Society>` when you buy and sell online.
+* :ref:`Contribute to your community <Contribute To Your Communities>` when you buy and sell online.
 
-Advanced and easy-to-use technology empowers you, your local economy, but not the corporate monopolies that prey on it. Feel like a hero fighting our generation’s most powerful villains!
 
 .. note:: 
 	 Particl Marketplace relies on open-source technologies openly audited, inspected, and improved by a global community. It is based on distributed ledger and peer-to-peer technologies. It runs on a network of independent nodes hosted by volunteers scattered across the world. The entirely autonomous platform doesn’t require any central party to operate or maintain, which means no company or organization is between buyers and sellers.
@@ -30,28 +32,24 @@ Advanced and easy-to-use technology empowers you, your local economy, but not th
 Protect Your Finances
 ---------------------
 
-In today's economy, your survival is mainly bound to the state of your finances. So protecting your finances is a natural desire. Unfortunately, if you use “free” internet services, they are not really free! No, instead, you pay with your invaluable personal information and data, on top of commissions and fees.
+Protecting our assets is a natural desire – our powers freedoms are mainly bound to the state of our finances. Unfortunately, if you use “free” internet services, they are not really free! No, instead, you pay with your invaluable personal information and data, on top of commissions and fees.
 
-:term:`Particl Marketplace` does not seek revenues from selling off your data or through fees. It doesn’t need that data and income because there is no corporate interest behind it. Instead, the people working on Particl are supported entirely by community donations, without any strings attached or compromise for you. This brings down the total cost of doing online commerce.
+:term:`Particl Marketplace` does not seek revenues from selling your data, or even through fees. It doesn’t need that data and income because there is no corporate interest behind it. Instead, the people working on Particl are supported entirely by community donations, without any strings attached or compromise for you. This brings down the total cost of doing online commerce.
 
-*“We help you to save more or make more money by cutting out the middleman.“*
+*“We empower you to maintain your privacy while saving on fees, by cutting out the middleman.“*
 
 ----
 
 Stand For Liberty
 -----------------
 
-Big corporations collect data from you with every purchase and sale you make. They even do it the second you land on their website and start browsing. They use your data to analyze your behaviors as an online merchant or a consumer and increase their bottom line. Then, they sell your personal information or use it against you without your knowledge or consent. You’ve guessed it. You have become the product, and these corporations are your insidious thieves.
+Big corporations collect data from you with every purchase and sale you make - they even do it the second you land on their website and start browsing. They use your data to analyze your behaviors as an online merchant or a consumer and increase their own bottom line. Then, they sell your personal information or use it against you without your knowledge or consent. We have largely become the product, and these corporations are the insidious thieves.
  
 **Corporations like e-commerce giants have become your credit score broker.**
 
-* Based on their risk assessment, they rate your insurance policies. 
-* Your personal preferences will be the reason why you may not get a particular job.
-* Or even worse, rating algorithms could block your bank accounts in the future!
+The ever-sprawling giant e-commerce corporations always seek to expand their profits, market power, and control. They have substantially contributed to today’s alarming digital security and privacy crisis under the guise of usability and convenience. Now more than ever, protecting your data means protecting your freedom.
 
-The ever-sprawling giant e-commerce corporations always seek to expand their profits, market power, and control. They have created today’s alarming digital security and privacy crisis under the guise of usability and convenience. And with all the information they possess, they've become more powerful than national governments! Believe it or not, protecting your data is protecting your finances and your quality of life.
-
-*“We help you to become the captain of your data and liberties.“*
+*“We empower you to become the captain of your data and liberties.“*
 
 ----
 
@@ -60,32 +58,32 @@ Squash The Rogues
 
 **You Stop Privacy Invasions and Backdoors** 
 
-No more stolen credit card information or passwords, compromised online accounts, or any online surveillance. When no data about you is created, it cannot be collected by anyone. And when no one collects it, it cannot be shared, sold, misused, hacked, or leaked anymore. That’s true for sellers and buyers regardless of whether it relates to your products, locations, payments, shipping information, preferences, or any online activity. As a result, you can now defend your human right to privacy and shield yourself from the many technical and political uncertainties of today’s world.
+No more stolen credit card information or passwords, compromised online accounts, or any online surveillance. When no data about you is created, it cannot be collected by anyone. And when no one collects it, it cannot be shared, sold, misused, hacked, or leaked anymore. That’s true for sellers and buyers regardless, whether it relates to your products, locations, payments, shipping information, preferences, or any online activity. As a result, you can now defend your human right to privacy and shield yourself from the many technical and political uncertainties of today’s world.
 
-*“We help you become invincible to privacy issues.”*
+*“We help you become invincible to privacy contingencies.”*
 
 **You Stop Restrictions, Politics, and Malice**
 
 :term:`Particl Marketplace` has a 100% uptime that is impossible to be taken offline or manipulated. No merchant, buyer, or product can be banned, censored, or canceled by all-powerful tech overlords. Instead, it's the Particl community that is in charge of what content is allowed or not on the marketplace. Across national borders, you can now enjoy free trade and free-market conditions without the interference of governing bodies or unfair legislation. Manufacturers, vendors, and producers can freely decide how and with whom they do business.
 
-*“We help you become bullet-proof against unfair restrictions.”*
+*“We give you access to a true, decentralized free market.”*
 
 **You Stop Fraud and Trickery**
 
-No more bricks in the package or bad quality counterfeit goods for you as a customer. No more chargebacks for vendors due to stolen identities. Fraudulent attempts get taken down with a free of charge and automated two-party escrow system.
+No more false advertising or bad quality counterfeit goods for you as a customer. No more chargebacks for vendors due to stolen identities. Fraudulent attempts get taken down with a free and automated two-party escrow system.
 
-*“We help you to become immune to online fraud and scammers.”*
+*“We offer you private and efficient solutions to online fraud and scammers.”*
 
 **You Stop Spam and Unwanted Solicitations**
 
-Tailored ads are hammering on you even after making a purchase, and most of the time, even before you make it. You see them on the websites you visit, you encounter them throughout your emails, and directly on the apps you use. It even affects how search engines deliver results to you. Invasive ads follow you wherever you go, and, every day, they crawl deeper into your life.
+Tailored ads are hammering on you even after making a purchase, and most of the time, before you make it. You see them on the websites you visit, you encounter them throughout your emails, and directly on the apps you use. It even affects how search engines deliver results to you. Invasive ads follow you wherever you go, and, every day, learn more about your habits.
 
 *“We help you to put an end to spam.”*
 
 ----
 
-Contribute To Society
----------------------
+Contribute To Your Communities
+------------------------------
 
 E-commerce and online marketplaces have made the world of shopping and selling a very different place. The price wars destroyed small merchants, only to benefit online platform operators and financial services providers. As a result, small businesses have had to give up, while only a handful of large corporations continuing to dominate the market. The ones who suffer the most are the low-to-middle-class people, the heart of every nation throughout the world.
 
@@ -95,17 +93,17 @@ Breaking the online monopolies gives merchants, manufacturers, and producers of 
 
 **Pledge to Local Shops and Co-operatives**
 
-Local shops and co-operatives in your proximity get the ability to set up their own internet shops at virtually no cost, no maintenance requirement, and without any external interference or oversight.
+Local shops and co-operatives in your proximity get the ability to set up their own internet shops at virtually no cost, with no maintenance requirement, and without any external interference or oversight.
 
 **Pledge to Yourself and your Communities**
 
-Some say that sustainability and responsibility are the cornerstones of a healthy economy. Don’t wait for somebody to make the economy better. Be your own revolution and liberation. Share and discuss :term:`Particl Marketplace` with your communities and help them improve their situation.
+Some say that sustainability and responsibility are the cornerstones of a healthy economy. Don’t wait for somebody to make your economy better! Be your own revolution and liberation. Share and discuss :term:`Particl Marketplace` with your communities and help them improve their situation.
 
-*“It’s time to give back to the small, to the oppressed, and the exploited. Now you can reduce global inequalities and competitive disadvantages.”* 
+*“Particl marketplace gives you the liberty to level the playing field, and crush competitive disadvantages.”* 
 
 ----
 
-Your Successes
+What you get
 --------------
 
 By :ref:`installing <Installation Guides>` and using :term:`Particl Marketplace`, you make a conscious decision that rewards you:
@@ -118,8 +116,6 @@ By :ref:`installing <Installation Guides>` and using :term:`Particl Marketplace`
 * You say goodbye to spam.
 * You fight against global economic and social inequalities.
 
-*Admittedly, there is a price for all this. Currently, it is just a little bit of inconvenience. So, do you think it’s worth it?*
-
 ----
 
 How it Works
@@ -127,7 +123,7 @@ How it Works
 
 :term:`Particl Marketplace` relies on open-source technologies that are openly audited, inspected, and improved by the global community. Each and every single component of the marketplace is designed to keep you, your funds, and your personal information safe.
 
-It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-to-peer <Peer-to-Peer>` technologies, which you may know by hearing :term:`Blockchain` and Bitcoin's synonyms. It runs on a distributed network (:term:`Particl Network`) of :term:`nodes <Node>` hosted by volunteers scattered across the world. It is an entirely autonomous platform that doesn’t require any central party to operate, which means no company or organization is between buyers and sellers.
+It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-to-peer <Peer-to-Peer>` technologies, which you may know by hearing :term:`Blockchain` and Bitcoin's synonyms. It runs on a distributed network (:term:`Particl Network`) of :term:`nodes <Node>` hosted by volunteers scattered across the world. It is an entirely autonomous platform that doesn’t require any central party to operate, which means no company or organization stands between buyers and sellers.
 
 .. raw:: html
 
